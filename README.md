@@ -7,7 +7,8 @@ Prepare and test
 3. Clone repository https://github.com/LanaUno/redmine-plwrt.git
 4. Go to the folder redmine-plwrt
 5. Install playwright VS Code Extention
-   npm init playwright@latest
+
+   'npm init playwright@latest'
 
    Run the install command and select the following to get started:
 
@@ -21,3 +22,7 @@ Prepare and test
 6. To install all dependencies use npm install
 7. Run 'npx playwright test' in the command line to run tests
 8. To open last HTML report run: 'npx playwright show-report'
+
+9. To find last HTML report follow the link
+
+https://lanauno.github.io/redmine-plwrt/
